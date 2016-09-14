@@ -5,7 +5,7 @@
   "main": "",
   "repository" :
   { "type" : "git"
-  , "url" : "git@github.com:saucelabs-sample-test-frameworks/JS-Mocha-WebdriverIO.git"
+  , "url" : "git@github.com/Purushoth88/JS-Mocha-WebdriverIO-Selenium.git"
   },
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt"
